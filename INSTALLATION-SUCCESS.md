@@ -1,0 +1,1 @@
+Smart Campus+ automated deployment setup: Vercel (frontend), Railway (backend), CI/CD ready. See README for details.
